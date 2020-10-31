@@ -17,16 +17,18 @@ Sample files are in the `sample_json_files/` folder.
 These are the example files that are being validated.
 
 ## Sample output
-`a  
-<br/>running on valid json  
-<br/>Valid JSON  
-<br/>Valid JSON  
-<br/>Valid JSON  
-<br/>Valid JSON`  
-<br/>  
-<br/>`running on Invalid json  
-<br/>Invalid JSON  
-<br/>Invalid JSON  
-<br/>Invalid JSON  
-<br/>Invalid JSON`
+<pre>
+a  
+running on valid json  
+Valid JSON  
+Valid JSON  
+Valid JSON  
+Valid JSON
+
+running on Invalid json  
+Invalid JSON  
+Invalid JSON  
+Invalid JSON  
+Invalid JSON
+</pre>
 
