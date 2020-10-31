@@ -18,15 +18,15 @@ These are the example files that are being validated.
 
 ## Sample output
 `a  
-running on valid json  
-Valid JSON  
-Valid JSON  
-Valid JSON  
-Valid JSON`  
+<br/>running on valid json  
+<br/>Valid JSON  
+<br/>Valid JSON  
+<br/>Valid JSON  
+<br/>Valid JSON`  
 <br/>  
-`running on Invalid json  
-Invalid JSON  
-Invalid JSON  
-Invalid JSON  
-Invalid JSON`
+<br/>`running on Invalid json  
+<br/>Invalid JSON  
+<br/>Invalid JSON  
+<br/>Invalid JSON  
+<br/>Invalid JSON`
 
