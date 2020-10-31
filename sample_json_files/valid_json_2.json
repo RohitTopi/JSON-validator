@@ -1,0 +1,15 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "age": 31,
+    "address": {
+        "streetAddress": "123",
+        "city": "new city",
+        "state": "new state",
+        "postalCode": "123456"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "9876543210" }
+    ]
+}
