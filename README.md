@@ -1,7 +1,6 @@
-# JSON-validator
+# JSON Validator
 
-## About
-JSON validator validates JSON files
+JSON Validator validates JSON files
 
 ## Compiling
 The header file exists in `json/` directory,
